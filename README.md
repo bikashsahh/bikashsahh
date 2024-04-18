@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bikash Sah</h1>
 <h3 align="center">A passionate developer from India</h3>
+<br/>
+<img align="right" alt="coding" style="padding: '5px' , margin-top:'10px'" width="500" src="https://img.freepik.com/free-photo/medium-shot-man-wearing-vr-glasses_23-2149126949.jpg?w=2000&t=st=1713458308~exp=1713458908~hmac=0e44eaf9a68565901f3b13f573c0f569ce5bea78dffb8355b1beaf8bff7c0d19">
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bikashsahh&label=Profile%20views&color=0e75b6&style=flat" alt="bikashsahh" /> </p>
 
-- 🔭 I’m currently working on [College Niwas](https://github.com/bikashsahh/DevjamPGFinal)
+- 🔭 I'm currently working on [MINI_PROJECT]((https://github.com/bikashsahh/Mini_Project2k24))
 
-- 🌱 I’m currently learning **Flutter,Js,DSA**
+- 🌱 I'm currently learning **Flutter, Js, DSA, React, MUI React, PostGre, Firebase.**
 
-- 👯 I’m looking to collaborate on [College Niwas](https://github.com/bikashsahh/DevjamPGFinal)
+- 👯 I'm looking to collaborate on [MNNIT IGNOU Portal](https://github.com/bikashsahh/Mini_Project2k24)
 
 - 👨‍💻 All of my projects are available at [https://github.com/bikashsahh](https://github.com/bikashsahh)
 
@@ -23,7 +24,7 @@
 <a href="https://fb.com/https://www.facebook.com/bikash.sah.2016/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bikash.sah.2016/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/bikashsahh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bikashsahh/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/bikashsahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/bikashsahh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/bikashsah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/bikashsah/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/bikashsah98/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/bikashsah/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/bikashsj1cj/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/bikashsj1cj/practice" height="30" width="40" /></a>
 </p>
 
